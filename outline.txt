@@ -1,4 +1,6 @@
 Chapter 1
+======================
+
 - Characters 234
 See
 Chapter 2
